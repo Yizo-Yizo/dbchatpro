@@ -1,7 +1,5 @@
 ﻿using Azure.AI.OpenAI;
 using Azure;
-using static MudBlazor.CategoryTypes;
-using System.Text.Json;
 using System.Text;
 using OpenAI.Chat;
 
